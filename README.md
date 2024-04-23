@@ -6,6 +6,8 @@ ___
 
 ___
 
+<img src="https://github.com/MickBlanch/black-clover-movie-gogoanime/blob/main/bc.png"/>
+
 *Asta, a boy born with no magic in a world where magic is everything, and his rival Yuno, a genius mage chosen by the legendary 4-leaf Grimoire, have together fought a number of powerful enemies to prove their power beyond adversity and aim for the top mage "Wizard King". Standing in front of Asta and Yuno, who dream of becoming the Wizard King, are the Wizard Kings from the past. Conrad Leto, Julius Novachrono's predecessor Wizard King, once respected by the people of Clover Kingdom but suddenly rebelled against the kingdom and was sealed away, has been resurrected. Now he aims to use the "Imperial Sword" to resurrect the 3 most feared Wizard Kings in the history, Edward Avalaché, Princia Funnybunny and Jester Garandaros, and take over the Clover Kingdom*
 
 +  Director: Ayataka Tanemura
